@@ -9,6 +9,15 @@
 #### -Currently learning how to master jump roping;
 #### -I have placed in the global top 100 leaderboards in 3 different games (R6: Siege, Fifa 20, Fifa 21)
 
+``` 
+const myLife = (caffeine) => {
+     eat();
+     workout();
+     code();
+     sleep();
+     repeat()
+}
+```
 <!--
 **AdamTahiri/AdamTahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
