@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Adam and I have a passion for coding, gaming, and all things fitness related!
-I am currently learning backEnd development using psql and connecting it to frontEnd using react.
-I am planning to work on a project; a fullstack website for a friends cafe that allows customers to view the menu and make orders.
+## I'm Adam and I have a passion for coding, gaming, and all things fitness related!
+#### I am currently learning backEnd development using psql and connecting it to the frontEnd using react.
+#### I am planning to work on a project; a fullstack website for a friends cafe that allows customers to view the menu and make orders.
 
-Fun Facts About Me: 
--I workout 6 days a week;
--Currently learning how to master jump roping;
--I have placed in the global top 100 leaderboards in 3 different games (R6: Siege, Fifa 20, Fifa 21)
+### Fun Facts About Me: 
+#### -I workout 6 days a week;
+#### -Currently learning how to master jump roping;
+#### -I have placed in the global top 100 leaderboards in 3 different games (R6: Siege, Fifa 20, Fifa 21)
 
 <!--
 **AdamTahiri/AdamTahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
