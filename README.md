@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## I'm Adam and I have a passion for coding, gaming, and all things fitness related!
-#### I am currently learning backEnd development using psql and connecting it to the frontEnd using react.
-#### I am planning to work on a project; a fullstack website for a friends cafe that allows customers to view the menu and make orders.
+#### I am currently a new graduate from Pursuit, an intensive 12-month software engineering fellowship, where i have honed my skills to build many applications and projects using React, Javascript, Node, Express, HTML, CSS, Redux, PostgreSQL, GIT, and API's. 
+#### I am currently working on a passion project to build a website for a family members cafe.
 
 ### Fun Facts About Me: 
 #### -I workout 6 days a week;
