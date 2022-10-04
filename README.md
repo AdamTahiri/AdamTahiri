@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## I'm Adam and I have a passion for coding, gaming, and all things fitness related
-#### I am currently a new graduate from Pursuit, an intensive 12-month software engineering fellowship, where i have honed my skills to build many applications and projects using React, Javascript, Node, Express, HTML, CSS, Redux, PostgreSQL, GIT, and API's. 
-#### I am currently an Apprentice at Uber working as an Android Engineer building out cool features on Eats.
+#### I am a Pursuit alum, an intensive 12-month software engineering fellowship, where i have honed my skills to build many applications and projects using React, Javascript, Node, Express, HTML, CSS, Redux, PostgreSQL, GIT, and API's. 
+#### I am currently an Android Engineer @ Uber building out cool features on Eats.
 
 ### Fun Facts About Me: 
 #### -I workout 6 days a week;
