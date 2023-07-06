@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-## I'm Adam and I have a passion for coding, gaming, and all things fitness related
-#### I am a Pursuit alum, an intensive 12-month software engineering fellowship, where i have honed my skills to build many applications and projects using React, Javascript, Node, Express, HTML, CSS, Redux, PostgreSQL, GIT, and API's. 
-#### I am currently an Android Engineer @ Uber building out cool features on Eats.
-
-### Fun Facts About Me: 
-#### -I workout 6 days a week;
-#### -Currently learning how to master jump roping;
-#### -I have placed in the global top 100 leaderboards in 3 different games (R6: Siege, Fifa 20, Fifa 21)
+## I'm Adam and I have a passion for coding, sports, and all things fitness related
+#### I am a Pursuit alum, an intensive software engineering fellowship, where i have honed my skills to build many applications and projects using React, Javascript, Node, Express, HTML, CSS, Redux, PostgreSQL, GIT, and API's. 
+#### I am currently an Android Engineer @ Uber building out innovative features on Eats.
 
 ``` 
 const myLife = (caffeine) => {
